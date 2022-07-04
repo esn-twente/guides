@@ -5,7 +5,7 @@ This is the source of the ESN Twente housing guide. You can find a live version 
 ## Rendering
 
 ```bash
-cmark --validate-utf8 --to html --smart --unsafe  housing_guide.md | sed 's/href="h/target="_blank" h/g' > housing_guide.html
+cmark --validate-utf8 --to html --smart --unsafe  housing_guide.md | sed 's/href="h/target="_blank" href="h/g' > housing_guide.html
 ```
 
 ## Contributing
