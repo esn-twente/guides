@@ -10,9 +10,9 @@ Both instituztions also have their own housing web pages:
 + [University of Twente](https://www.utwente.nl/en/campus/facilities/housing/students/)
 + [Saxion University of Applied Sciences](https://www.saxion.edu/studying-in-the-netherlands/practical-matters/accommodation)
 
-If you have any feedback or questions to share with us after reading through this page, please email us: `housing[at]esntwente.nl`
+Your contributions towards this guide are greatly appreciated. For any questions, questions or suggestions, you can reach out to us via email `housing[at]esntwente.nl`. Moreover.  **Pull Requests** on our [GitHub](https://github.com/esn-twente/housing-guide) repo are very much welcome.
 
-Last update: **June, 2021**.
+Last update: **July 2022**.
 
 ## Table Of Contents
 
@@ -206,7 +206,7 @@ Of course, nobody wants to get scammed. But it happens. Refer to the [Tenancy La
 Here are some things to watch out for:
 
 + Do pictures look too good to be real? Do they look like stock images? They might be! Use Google reverse image search to confirm whether the picture is from a real offer.
-+ Are there amounts stated in a different currency than Euro? **Definite scam.**
++ Are there amouhttps://github.com/esn-twente/housing-guidents stated in a different currency than Euro? **Definite scam.**
 + Is the person you are dealing with abroad in a far-away place and does not let you speak to people who currently rent the accommodation or have rented it in the past? Most likely a scam.
 + Is the price of the rent negotiable or changes drastically? **Scam**.
 + Is the person you are dealing with trying to get you to sign a contract before you have spoken to current or previous tenants, or before you have seen the room? Most likely a scam.
@@ -226,7 +226,6 @@ And finally, some tips to get confirmation about your suspicions:
 
 + Talk to previous tenants and ask about their experience with the landlord/-lady and why they left. Especially if they stayed for a longer period, this will give you a good indication of the relationship with the landlord/-lady.
 + If possible, visit the place in person (for a viewing). Prepare questions. Go along with an adult or more experienced friend to get a second opinion. If this is not possible, arrange an online video call to see the place. You can also ask someone you know, who is already in the city, to take a look at the place for you.
-
 ## What are the locations like?
 
 When choosing your accommodation you also choose the kind of student life that goes along with it. We already touched on co-optation and some of Dutch culture. In the following, we provide you with some quick orientation regarding where you might want to live. Please consider that the exact circumstances will depend on the house/neighbourhood.
