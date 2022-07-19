@@ -1,5 +1,5 @@
 ---
-title: Housing Guide
+title: Housing Guide for me
 ---
 # Housing Guide
 Finding student housing in the Netherlands can be very difficult. Especially for international students! As ESN Twente, we are happy that we could reach you and offer some support. To help you find an offer that suits your needs, this page compiles information and resources available for international students at the University of Twente or Saxion UAS.
