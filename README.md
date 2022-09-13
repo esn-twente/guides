@@ -1,6 +1,6 @@
-# Housing Guide
+# ESN Twente Guides
 
-This is the source of the ESN Twente housing and survival guides.
+This is the source for the ESN Twente survival and housing and guides.
 
 Live versions:
 * [Survival Guide](https://esntwente.nl/guide)

@@ -12,7 +12,7 @@ Both institutions also have their own housing web pages:
 + [University of Twente](https://www.utwente.nl/en/campus/facilities/housing/students/)
 + [Saxion University of Applied Sciences](https://www.saxion.edu/studying-in-the-netherlands/practical-matters/accommodation)
 
-Your contributions towards this guide are greatly appreciated. For any questions, questions or suggestions, you can reach out to us via email `housing[at]esntwente.nl`. Moreover, you can open a  **Pull Request** to our [GitHub](https://github.com/esn-twente/housing-guide) repo.
+Your contributions towards this guide are greatly appreciated. For any questions, questions or suggestions, you can reach out to us via email `housing[at]esntwente.nl`. Moreover, you can open a  **Pull Request** to our [GitHub](https://github.com/esn-twente/guides) repo.
 
 Last update: **August 2022**.
 
