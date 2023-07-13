@@ -14,7 +14,7 @@ Both institutions also have their own housing web pages:
 
 Your contributions towards this guide are greatly appreciated. For any questions, questions or suggestions, you can reach out to us via email `housing[at]esntwente.nl`. Moreover, you can open a  **Pull Request** to our [GitHub](https://github.com/esn-twente/guides) repo.
 
-Last update: **August 2022**.
+Last update: **July 2023**.
 
 ## Table Of Contents
 
@@ -71,7 +71,7 @@ When looking at or asking for the price of an offer, make sure to pay attention 
 
 **Moving in/out**
 
-Moving in our out of different accommodation is a daunting task. A great to contact when it comes down to handing all your sizeable personal belongings is Roland. He is a German Native and, known among Enschede's Students as the 'Transport Guy', has helped many students moving from their old place to the new for an affordable price. Moreover, he is available to help with transporting (large) objects purchased via platforms such as 'Marketplace' You can reach him via his Facebook page [Transport Guy Student Moving](https://facebook.com/roland.moving) or on WhatsApp via [+31629594190](https://wa.me/31629594190).
+Moving in our out of different accommodation is a daunting task. A great to contact when it comes down to handing all your sizeable personal belongings is Roland. He is a German Native and, known among Enschede's Students as the 'Transport Guy', has helped many students moving from their old place to the new for an affordable price. Moreover, he is available to help with transporting (large) objects purchased via platforms such as 'Marketplace' You can reach him via his website [Transport Guy Student Moving](https://transportguy.nl/) or on WhatsApp via [+31623397461](https://wa.me/31623397461).
 
 ### Regarding housing benefits
 For self-contained housing, you might be eligible to apply for a housing allowance (rent allowance, “*huurtoeslag*” in Dutch) to reduce the amount of rent you pay. Please refer to Chapter 4.5 of the [Tenancy Law Manual](https://lsvb.nl/wp-content/uploads/2020/10/Tenancy-law-how-does-it-work-Dutch-Student-Union-LSVb.pdf) for more information. You may also consult this [website in English](https://housingallowance.nl/housing-allowance/) or the [official website of the Dutch government (Dutch)](https://www.belastingdienst.nl/wps/wcm/connect/nl/toeslagen/content/hoe-moet-ik-huurtoeslag-aanvragen) to learn more about how to apply for housing allowance.
