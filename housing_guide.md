@@ -118,7 +118,7 @@ The best way for you to look for housing will depend on what kind of student you
 
 #### Looking for a student room in a student house?
 
-Aside from [Roomspot](https://www.roomspot.nl/en/home), you may try to look for a room through [Kamersite](https://su.utwente.nl/en/rooms/), the official housing platform of the Student Union of the University of Twente. These offers, again, are mostly from Dutch stugmail.cdent houses and in Dutch.
+Aside from [Roomspot](https://www.roomspot.nl/en/home), you may try to look for a room through [Kamersite](https://su.utwente.nl/en/rooms/), the official housing platform of the Student Union of the University of Twente. These offers, again, are mostly from Dutch student houses and in Dutch.
 Another safe and cheap place to find housing among international students is Macandra.
 
 When using Facebook or Kamernet, be aware that there is a risk of being scammed. See the paragraph on [how to get the housing I like?](#how-do-i-get-the-housing-i-like) for more tips.
